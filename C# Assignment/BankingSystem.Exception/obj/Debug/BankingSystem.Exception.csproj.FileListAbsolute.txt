@@ -1,0 +1,11 @@
+C:\Users\Apurva Singhal\source\repos\C# Assignment\BankingSystem.Exception\bin\Debug\BankingSystem.Exception.dll
+C:\Users\Apurva Singhal\source\repos\C# Assignment\BankingSystem.Exception\bin\Debug\BankingSystem.Exception.pdb
+C:\Users\Apurva Singhal\source\repos\C# Assignment\BankingSystem.Exception\bin\Debug\BankingSystem.BusinessLayer.dll
+C:\Users\Apurva Singhal\source\repos\C# Assignment\BankingSystem.Exception\bin\Debug\BankingSystem.Entity.dll
+C:\Users\Apurva Singhal\source\repos\C# Assignment\BankingSystem.Exception\bin\Debug\BankingSystem.BusinessLayer.pdb
+C:\Users\Apurva Singhal\source\repos\C# Assignment\BankingSystem.Exception\bin\Debug\BankingSystem.Entity.pdb
+C:\Users\Apurva Singhal\source\repos\C# Assignment\BankingSystem.Exception\obj\Debug\BankingSystem.Exception.csproj.AssemblyReference.cache
+C:\Users\Apurva Singhal\source\repos\C# Assignment\BankingSystem.Exception\obj\Debug\BankingSystem.Exception.csproj.CoreCompileInputs.cache
+C:\Users\Apurva Singhal\source\repos\C# Assignment\BankingSystem.Exception\obj\Debug\BankingS.3C0337B2.Up2Date
+C:\Users\Apurva Singhal\source\repos\C# Assignment\BankingSystem.Exception\obj\Debug\BankingSystem.Exception.dll
+C:\Users\Apurva Singhal\source\repos\C# Assignment\BankingSystem.Exception\obj\Debug\BankingSystem.Exception.pdb
