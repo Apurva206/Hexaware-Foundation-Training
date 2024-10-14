@@ -1,0 +1,7 @@
+<configuration>
+  <connectionStrings>
+    <add name="BankingSystemDb" 
+         connectionString="Data Source=DESKTOP-5VEHB15;Initial Catalog=BankingSystem;Integrated Security=True;" 
+         providerName="System.Data.SqlClient" />
+  </connectionStrings>
+</configuration>

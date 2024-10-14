@@ -1,0 +1,12 @@
+C:\Users\Apurva Singhal\source\repos\BankingSystem.Entity\bin\Debug\BankingSystem.Entity.dll
+C:\Users\Apurva Singhal\source\repos\BankingSystem.Entity\bin\Debug\BankingSystem.Entity.pdb
+C:\Users\Apurva Singhal\source\repos\BankingSystem.Entity\obj\Debug\BankingSystem.Entity.csproj.AssemblyReference.cache
+C:\Users\Apurva Singhal\source\repos\BankingSystem.Entity\obj\Debug\BankingSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Apurva Singhal\source\repos\BankingSystem.Entity\obj\Debug\BankingSystem.Entity.dll
+C:\Users\Apurva Singhal\source\repos\BankingSystem.Entity\obj\Debug\BankingSystem.Entity.pdb
+C:\Users\Apurva Singhal\source\repos\C# Assignment\BankingSystem.Entity\bin\Debug\BankingSystem.Entity.dll
+C:\Users\Apurva Singhal\source\repos\C# Assignment\BankingSystem.Entity\bin\Debug\BankingSystem.Entity.pdb
+C:\Users\Apurva Singhal\source\repos\C# Assignment\BankingSystem.Entity\obj\Debug\BankingSystem.Entity.csproj.AssemblyReference.cache
+C:\Users\Apurva Singhal\source\repos\C# Assignment\BankingSystem.Entity\obj\Debug\BankingSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Apurva Singhal\source\repos\C# Assignment\BankingSystem.Entity\obj\Debug\BankingSystem.Entity.dll
+C:\Users\Apurva Singhal\source\repos\C# Assignment\BankingSystem.Entity\obj\Debug\BankingSystem.Entity.pdb
